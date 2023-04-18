@@ -1,2 +1,1 @@
-Hello am @edwards698
-Am intrested in Tech
+Hello am @edwards698 I Innovate and think-forward 🤖👾👽
