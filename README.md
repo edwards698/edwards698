@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=developer+animated+gif&sca_esv=18cb6ca37494dc8f&sca_upv=1&rlz=1C5CHFA_enZM1070ZM1070&sxsrf=ACQVn08ZG-WjyROhqwPmapkjj7OODdQ5Ww%3A1712963982914&ei=jsEZZv-zN_6Li-gP-KKjsAE&oq=developer+animated+images&gs_lp=Egxnd3Mtd2l6LXNlcnAiGWRldmVsb3BlciBhbmltYXRlZCBpbWFnZXMqAggBMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSLsJUABYAHABeAGQAQCYAQCgAQCqAQC4AQHIAQCYAgGgAgaYAwCIBgGQBgiSBwExoAcA&sclient=gws-wiz-serp#vhid=CL8Lsl-jKD51kM&vssid=l">
-
+<iframe src="https://giphy.com/embed/hpF9R9M1PHN5e5liSx" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fun-retro-acid-hpF9R9M1PHN5e5liSx">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwards698&label=Profile%20views&color=0e75b6&style=flat" alt="edwards698" /> </p>
 
 - 💬 Ask me about **Software Dev, Embedded system AI & ML**
