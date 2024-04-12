@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡</h3>
-<iframe src="https://giphy.com/embed/hpF9R9M1PHN5e5liSx" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fun-retro-acid-hpF9R9M1PHN5e5liSx">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3867965-Animated-Paper-Shuttle-Launch?utm_source=Clipboard_Shot&utm_campaign=Fugstrator&utm_content=Animated%20Paper%20Shuttle%20Launch&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Fugstrator&utm_content=Animated%20Paper%20Shuttle%20Launch&utm_medium=Social_Share">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwards698&label=Profile%20views&color=0e75b6&style=flat" alt="edwards698" /> </p>
 
 - 💬 Ask me about **Software Dev, Embedded system AI & ML**
