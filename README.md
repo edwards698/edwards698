@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡</h3>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /><p align="left"> <img src="https://komarev.com/ghpvc/?username=edwards698&label=Profile%20views&color=0e75b6&style=flat" alt="edwards698" /> </p>
+<img src="https://iconscout.com/lottie-animation/scientist-programming-robot-10457465"/>
 
 - 💬 Ask me about **Software Dev, Embedded system AI & ML**
 
