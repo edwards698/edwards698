@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡</h3>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
     <div style="margin-right: 20px;">
         <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats">
     </div>
@@ -12,6 +12,7 @@
         </a>
     </div>
 </div>
+
 
 
 
