@@ -6,7 +6,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" style="margin-right: 10px;">
 
 </div>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=edwards698)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edwards6981&theme=dark)](https://git.io/streak-stats)
 
 
 <div id="badges">
