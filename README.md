@@ -1,15 +1,12 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡</h3>
-<img src="https://iconscout.com/lottie-animation/scientist-programming-robot-10457465"/>
+
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" style="margin-right: 10px;">
-    
-[![GitHub Streak](https://streak-stats.demolab.com/?user=edwards698&theme=dark)](https://git.io/streak-stats)
+    <iframe src="https://streak-stats.demolab.com/?user=edwards698&theme=dark" width="400" height="100" frameborder="0"></iframe>
 </div>
-
-
 
 
 <div id="badges">
