@@ -2,6 +2,8 @@
 <h3 align="center">Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡</h3>
 <img src="https://iconscout.com/lottie-animation/scientist-programming-robot-10457465"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?edwards698=anuraghazra&theme=dark&show_icons=true)
+
 - 💬 Ask me about **Software Dev, Embedded system AI & ML**
 
 - 📫 How to reach me **edwardphirijr698@gmail.com**
