@@ -2,16 +2,17 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡</h3>
 
-<div style="display: flex;">
-    <div style="margin-right: 20px;">
+<div style="display: flex; flex-direction: row;">
+    <div style="flex: 1; margin-right: 20px;">
         <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats">
     </div>
-    <div>
+    <div style="flex: 1;">
         <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-            <img src="https://streak-stats.demolab.com/?user=edwards698&theme=dark" alt="GitHub Streak" width="300">
+            <img src="https://streak-stats.demolab.com/?user=edwards698&theme=dark" alt="GitHub Streak" width="400">
         </a>
     </div>
 </div>
+
 
 
 
