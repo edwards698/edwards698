@@ -4,8 +4,10 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=edwards698&gruvbox&show_icons=true" alt="Anurag's GitHub stats">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </div>
+
+
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
