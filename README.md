@@ -7,7 +7,7 @@
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=edwards6981&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edwards698&theme=dark)](https://git.io/streak-stats)
 
 
 <div id="badges">
