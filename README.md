@@ -4,10 +4,11 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" style="margin-right: 10px;">
-
+    
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edwards698&theme=dark)](https://git.io/streak-stats)
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=edwards698&theme=dark)](https://git.io/streak-stats)
+
 
 
 <div id="badges">
