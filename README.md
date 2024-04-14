@@ -7,7 +7,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=edwards698&gruvbox&show_icons=true" alt="Anurag's GitHub stats">
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://github.com/edwards698/edwards698/edit/main/README.md)
+
 - 💬 Ask me about **Software Dev, Embedded system AI & ML**
 
 - 📫 How to reach me **edwardphirijr698@gmail.com**
