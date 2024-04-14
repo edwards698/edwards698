@@ -4,7 +4,7 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=dark&show_icons=true" alt="Anurag's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=edwards698&gruvbox&show_icons=true" alt="Anurag's GitHub stats">
 </div>
 
 
