@@ -1,3 +1,4 @@
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡</h3>
 <img src="https://iconscout.com/lottie-animation/scientist-programming-robot-10457465"/>
