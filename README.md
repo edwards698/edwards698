@@ -7,7 +7,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" alt="Centered Image">
 </div>
 <h1 align="left">Connect:</h1>
-<div align="left">
+<div align="left"> 
   <a href="edwardsphirijr698@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
