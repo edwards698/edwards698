@@ -5,20 +5,14 @@
     <div style="margin-right: 20px;">
         <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats">
     </div>
-
     <div>
         <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
             <img src="https://streak-stats.demolab.com/?user=edwards698&theme=dark" alt="GitHub Streak" width="400">
         </a>
     </div>
- 
 </div>
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
+
 - 💬 Ask me about *Software Dev, Embedded system AI & ML*
 
 - 📫 How to reach me *edwardphirijr698@gmail.com*
