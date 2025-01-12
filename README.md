@@ -3,17 +3,7 @@
 <div style="position: relative; width: 100%; height: 100vh; background: url('./background.jpg') no-repeat center center fixed; background-size: cover;">
     <h5 align="center"><i>Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡</i></h5>
 </div>
-
-<div style="display: flex; align-items: center;">
-    <div style="margin-right: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats">
-    </div>
-    <div>
-        <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-            <img src="https://streak-stats.demolab.com/?user=edwards698&theme=dark" alt="GitHub Streak" width="400">
-        </a>
-    </div>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 <h1 align="left">Connect:</h1>
 <div align="left">
   <a href="edwardsphirijr698@gmail.com" target="_blank">
