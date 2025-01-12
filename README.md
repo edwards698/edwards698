@@ -1,6 +1,6 @@
 # Hi 👋, I'm Edward
 
-<div style="text-align: center; padding: 40px; font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333;">
+<div style="text-align: center; padding: 40px; font-family: Arial, sans-serif; background: url('https://via.placeholder.com/1920x1080') no-repeat center center; background-size: cover; color: #fff;">
 
 ## Exploring the realms of technology and imagination with futuristic flair. 🚀✨💡
 
@@ -27,10 +27,10 @@
 
 ### About Me
 
-<ul style="font-family: Arial, sans-serif; font-size: 1rem; color: #333; line-height: 1.6;">
+<ul style="font-family: Arial, sans-serif; font-size: 1rem; color: #fff; line-height: 1.6;">
     <li>💬 Ask me about <strong>Software Development, Embedded Systems, AI & ML</strong></li>
-    <li>📫 How to reach me: <a href="mailto:edwardphirijr698@gmail.com">edwardphirijr698@gmail.com</a></li>
-    <li>📝 Know about my experiences: <a href="https://www.linkedin.com/in/edwardphiri/">LinkedIn Profile</a></li>
+    <li>📫 How to reach me: <a href="mailto:edwardphirijr698@gmail.com" style="color: #FFD700;">edwardphirijr698@gmail.com</a></li>
+    <li>📝 Know about my experiences: <a href="https://www.linkedin.com/in/edwardphiri/" style="color: #FFD700;">LinkedIn Profile</a></li>
 </ul>
 
 ---
