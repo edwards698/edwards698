@@ -5,13 +5,13 @@
     <div style="margin-right: 20px;">
         <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats">
     </div>
-    <!--
+
     <div>
         <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
             <img src="https://streak-stats.demolab.com/?user=edwards698&theme=dark" alt="GitHub Streak" width="400">
         </a>
     </div>
-    -->
+ 
 </div>
 
 <div id="badges">
