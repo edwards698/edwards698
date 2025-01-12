@@ -1,6 +1,6 @@
 # Hi 👋, I'm Edward
 
-<div style="text-align: center; padding: 40px; font-family: Arial, sans-serif; background: url('https://via.placeholder.com/1920x1080') no-repeat center center; background-size: cover; color: #fff;">
+<div style="text-align: center; padding: 40px; font-family: Arial, sans-serif; background: url('https://drive.google.com/drive/folders/124kMGY6lEJ091nnae_DSvG2E6XzP691C') no-repeat center center; background-size: cover; color: #fff;">
 
 ## Exploring the realms of technology and imagination with futuristic flair. 🚀✨💡
 
