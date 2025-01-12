@@ -1,155 +1,71 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>READEM UI Overview</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f9f8f7;
-      color: #333;
-    }
+# Hi 👋, I'm Edward
 
-    header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 20px 40px;
-      background-color: #fff;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
+<div style="text-align: center; padding: 40px; font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333;">
 
-    header .logo {
-      font-size: 1.5em;
-      font-weight: bold;
-      color: #333;
-    }
+## Exploring the realms of technology and imagination with futuristic flair. 🚀✨💡
 
-    header nav a {
-      margin-left: 20px;
-      text-decoration: none;
-      color: #555;
-      font-size: 1em;
-    }
+</div>
 
-    header .cta {
-      background-color: #ff6700;
-      color: #fff;
-      padding: 10px 20px;
-      border-radius: 20px;
-      text-decoration: none;
-      font-weight: bold;
-    }
+---
 
-    .hero {
-      text-align: center;
-      padding: 60px 20px;
-      background-color: #fdfdfd;
-    }
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=vue-dark&show_icons=true" alt="Edward's GitHub stats" style="border-radius: 8px; margin: 20px; width: 400px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+        <img src="https://streak-stats.demolab.com/?user=edwards698&theme=dark" alt="GitHub Streak" style="border-radius: 8px; margin: 20px; width: 400px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    </a>
+</div>
 
-    .hero h1 {
-      font-size: 3em;
-      margin-bottom: 20px;
-    }
+---
 
-    .hero p {
-      font-size: 1.2em;
-      color: #666;
-      margin-bottom: 40px;
-    }
+<div style="text-align: center; margin: 30px;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin: 10px; cursor: pointer;">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" style="margin: 10px; cursor: pointer;">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="margin: 10px; cursor: pointer;">
+</div>
 
-    .hero .actions a {
-      display: inline-block;
-      margin: 10px;
-      padding: 15px 30px;
-      text-decoration: none;
-      border-radius: 30px;
-      font-weight: bold;
-    }
+---
 
-    .hero .actions .try-free {
-      background-color: #ff6700;
-      color: #fff;
-    }
+### About Me
 
-    .hero .actions .see-demo {
-      border: 2px solid #ff6700;
-      color: #ff6700;
-    }
+<ul style="font-family: Arial, sans-serif; font-size: 1rem; color: #333; line-height: 1.6;">
+    <li>💬 Ask me about <strong>Software Development, Embedded Systems, AI & ML</strong></li>
+    <li>📫 How to reach me: <a href="mailto:edwardphirijr698@gmail.com">edwardphirijr698@gmail.com</a></li>
+    <li>📝 Know about my experiences: <a href="https://www.linkedin.com/in/edwardphiri/">LinkedIn Profile</a></li>
+</ul>
 
-    .features {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      margin: 40px 20px;
-    }
+---
 
-    .feature {
-      flex: 0 0 30%;
-      background: #fff;
-      padding: 20px;
-      margin: 20px;
-      text-align: center;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
+### Languages and Tools
 
-    .feature img {
-      width: 60px;
-      margin-bottom: 20px;
-    }
-
-    .feature h3 {
-      font-size: 1.5em;
-      margin-bottom: 10px;
-    }
-
-    .feature p {
-      color: #666;
-    }
-  </style>
-</head>
-<body>
-
-<header>
-  <div class="logo">READEM</div>
-  <nav>
-    <a href="#platform">Platform</a>
-    <a href="#features">Features</a>
-    <a href="#how-it-works">How It Works</a>
-  </nav>
-  <a href="#" class="cta">Get the App</a>
-</header>
-
-<section class="hero">
-  <h1>READEM: Knowledge & Engagement Platform</h1>
-  <p>Track, Read, and Engage Effectively with the power of data and insights.</p>
-  <div class="actions">
-    <a href="#" class="try-free">Try for Free</a>
-    <a href="#" class="see-demo">See Demo</a>
-  </div>
-</section>
-
-<section class="features">
-  <div class="feature">
-    <img src="https://via.placeholder.com/60" alt="Icon">
-    <h3>1 Million+ Users</h3>
-    <p>Engage with a growing community of knowledge seekers.</p>
-  </div>
-  <div class="feature">
-    <img src="https://via.placeholder.com/60" alt="Icon">
-    <h3>Subscriptions</h3>
-    <p>Create custom reading plans and stay on top of trends.</p>
-  </div>
-  <div class="feature">
-    <img src="https://via.placeholder.com/60" alt="Icon">
-    <h3>Mobile Application</h3>
-    <p>Track your progress and enjoy seamless cross-device access.</p>
-  </div>
-</section>
-
-</body>
-</html>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 40px 0;">
+    <a href="https://developer.android.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" style="width: 50px; height: 50px;">
+    </a>
+    <a href="https://angular.io" target="_blank">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" style="width: 50px; height: 50px;">
+    </a>
+    <a href="https://www.arduino.cc/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" style="width: 50px; height: 50px;">
+    </a>
+    <a href="https://aws.amazon.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" style="width: 50px; height: 50px;">
+    </a>
+    <a href="https://azure.microsoft.com/en-in/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" style="width: 50px; height: 50px;">
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" style="width: 50px; height: 50px;">
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width: 50px; height: 50px;">
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width: 50px; height: 50px;">
+    </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" style="width: 50px; height: 50px;">
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width: 50px; height: 50px;">
+    </a>
+</div>
