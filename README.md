@@ -1,8 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <div style="position: relative; width: 100%; height: 100vh; background: url('./background.jpg') no-repeat center center fixed; background-size: cover;">
-    <h1 align="center">Hi 👋, I'm Edward</h1>
-    <h3 align="center"><i>Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡</i></h3>
+    <h5 align="center"><i>Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡</i></h3>
 </div>
 
 <div style="display: flex; align-items: center;">
