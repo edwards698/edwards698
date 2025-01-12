@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
 
 <div style="position: relative; width: 100%; height: 100vh; background: url('./background.jpg') no-repeat center center fixed; background-size: cover;">
-    <h5 align="center">
+    <h3 align="center">
         <i>
             Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡
         </i>
-    </h5>
+    </h3>
 </div>
 
 <div align="center">
