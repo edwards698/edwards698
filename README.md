@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡</h3>
-<!--
+
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 20px;">
         <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats">
     </div>
-    <!
+    <!--
     <div>
         <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
             <img src="https://streak-stats.demolab.com/?user=edwards698&theme=dark" alt="GitHub Streak" width="400">
         </a>
     </div>
+    -->
 </div>
--->
+
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
