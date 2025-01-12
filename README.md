@@ -1,11 +1,35 @@
-<h1 align="center">Hi 👋! My name is Edward</h1>
+<h1 align="center">Hi 👋, I'm Edward</h1>
+<h3 align="center">Hello, I'm @edwards698, a forward-thinking innovator exploring the realms of technology and imagination, ready to push the boundaries of innovation with a touch of futuristic flair. 🚀🌟💡</h3>
 
-###
+<div style="display: flex; align-items: center;">
+    <div style="margin-right: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=edwards698&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats">
+    </div>
+    <div>
+        <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+            <img src="https://streak-stats.demolab.com/?user=edwards698&theme=dark" alt="GitHub Streak" width="400">
+        </a>
+    </div>
+</div>
 
-<img align="right" height="150" src="<div class="tenor-gif-embed" data-postid="12096569760353435252" data-share-method="host" data-aspect-ratio="0.536145" data-width="100%"><a href="https://tenor.com/view/virgo-dance-florence-winters-shuffle-archives-gif-12096569760353435252">Virgo Dance Florence Winters GIF</a>from <a href="https://tenor.com/search/virgo+dance-gifs">Virgo Dance GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"  />
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+- 💬 Ask me about *Software Dev, Embedded system AI & ML*
 
-###
+- 📫 How to reach me *edwardphirijr698@gmail.com*
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/edwardphiri/](https://www.linkedin.com/in/edwardphiri/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/edwardphiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edwardphiri/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19094004/edward-phiri-jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19094004/edward-phiri-jr" height="30" width="40" /></a>
+</p>
+
+<h1 align="left">Languages and Tools:</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -162,29 +186,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="edwardsphirijr698@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/edwardphiri/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
+</div
