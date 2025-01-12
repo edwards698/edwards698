@@ -1,4 +1,4 @@
-# ![Financilux Banner](https://via.placeholder.com/1200x400?text=Financilux+-+Financial+Tracking+Platform)
+# ![Financilux Banner]([https://via.placeholder.com](https://drive.google.com/drive/folders/124kMGY6lEJ091nnae_DSvG2E6XzP691C)/1200x400?text=Financilux+-+Financial+Tracking+Platform)
 <!-- Replace the above link with your own hosted image for a custom banner -->
 
 # 💰 Financilux - Your Ultimate Financial Tracking Platform
